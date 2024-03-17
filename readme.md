@@ -64,10 +64,10 @@ Proyek ini menggunakan librari python berikut:
 
 <details closed><summary>Data Source</summary>
 
-| File                                                                                      | Summary                         |
-| ----------------------------------------------------------------------------------------- | ------------------------------- |
-| [Stars.csv](https://github.com/eli64s/readme-ai-streamlit/blob/master/scripts/clean.sh)   | <code>► INSERT-TEXT-HERE</code> |
-| [6 class.csv](https://github.com/eli64s/readme-ai-streamlit/blob/master/scripts/clean.sh) | <code>► INSERT-TEXT-HERE</code> |
+| File                                                                                      |
+| ----------------------------------------------------------------------------------------- |
+| [Stars.csv]([https://github.com/eli64s/readme-ai-streamlit/blob/master/scripts/clean.sh](https://github.com/ghifarullah19/code-review-star-classification/blob/main/Stars.csv))   |
+| [6 class.csv]([https://github.com/eli64s/readme-ai-streamlit/blob/master/scripts/clean.sh](https://github.com/ghifarullah19/code-review-star-classification/blob/main/6%20class.csv)) |
 
 </details>
 
