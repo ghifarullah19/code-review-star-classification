@@ -36,6 +36,7 @@ Proyek ini adalah tentang mengklasifikasikan bintang berdasarkan kelas spektral.
 └── code-review-star-classification/
     ├── README.md
     ├── star-classification.ipynb
+    ├── 6 class
     └── Stars
 ```
 
