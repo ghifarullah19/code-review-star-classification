@@ -93,7 +93,7 @@ Kontribusi diratakan karena minimnya pemahaman terhadap tugas:
 
 - **Muhammad Lutfi Amin Ghifarullah**: Mencari kode dan mengulas kode.
 - **Rosmalinda Pane**: Mencari dan mengulas kode.
-- **Rahmad Daniel PN**: Mencari dan mengulas kode.
+- **Rahmad Daniel Pardamean Naibaho**: Mencari dan mengulas kode.
 
 ---
 
