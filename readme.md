@@ -16,7 +16,7 @@
 
 > - [ Overview](#overview)
 > - [ Struktur Repositori](#struktur-repositori)
-> - [ Library](#linrary)
+> - [ Library](#library)
 > - [ Sumber](#sumber)
 > - [ Memulai Program](#memulai-program)
 > - [ Kontribusi](#kontibusi)
