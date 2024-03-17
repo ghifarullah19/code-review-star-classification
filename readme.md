@@ -14,13 +14,13 @@
 
 ## _Quick Links_
 
-> - [ Overview](#-overview)
-> - [ Struktur Repositori](#-struktur-repositori)
-> - [ Library](#-linrary)
-> - [ Sumber](#-sumber)
-> - [ Memulai Program](#-memulai-program)
-> - [ Kontribusi](#-kontibusi)
-> - [ Lisensi](#-Lisensi)
+> - [ Overview](#overview)
+> - [ Struktur Repositori](#struktur-repositori)
+> - [ Library](#linrary)
+> - [ Sumber](#sumber)
+> - [ Memulai Program](#memulai-program)
+> - [ Kontribusi](#kontibusi)
+> - [ Lisensi](#Lisensi)
 
 ---
 
